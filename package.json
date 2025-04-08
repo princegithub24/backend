@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backendproject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/princegithub24/backend.git"
+  },
+  "author": "Prince",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/princegithub24/backend/issues"
+  },
+  "homepage": "https://github.com/princegithub24/backend#readme",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
